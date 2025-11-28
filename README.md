@@ -1,5 +1,3 @@
-# RiceYield-AI
-
 # 🌾 RiceYield AI: Predicción de Rendimiento Agrícola Para Pequeños Productores
 
 > 🏆 **Premio al Mejor Póster de Pregrado** - 4to Congreso "Vive la Investigación" (UTEM).
