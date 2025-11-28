@@ -116,6 +116,7 @@ RiceYield-AI-Prediction/
 ├── models/               # Modelos serializados (.pkl) y Scalers
 ├── docs/                 # Informe Técnico y Póster ganador (PDFs)
 └── RICE_YIELD_AI.ipynb   # Notebook principal: ETL, EDA y Entrenamiento
+```
 ## 🛠️ Tecnologías Utilizadas
 Lenguaje: Python 🐍
 
