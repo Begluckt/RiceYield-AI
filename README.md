@@ -67,7 +67,7 @@ Visualización: Matplotlib, Seaborn.
 APIs: requests para consumo de servicios REST geoespaciales.
 
 ## 👥 Autores y Créditos
-Este trabajo fue desarrollado como parte del Laboratorio de Inteligencia Artificial en la Universidad Tecnológica Metropolitana (UTEM).
+Este trabajo fue desarrollado como parte del curso de formacion especializada de Inteligencia Artificial en la Universidad Tecnológica Metropolitana (UTEM).
 
 [Patricio Abarca Hernández] - [https://github.com/Begluckt]
 
